@@ -52,8 +52,10 @@ const VehicleImage = () => {
                         and USB ports to effortlessly integrate your devices. Experience the thrill of driving with the S drive function, allowing you to unleash the full potential of this remarkable vehicle. 
                         The sport mode offers an exhilarating performance, complemented by the precision-engineered handling and powerful engine, ensuring an unforgettable ride. The Mercedes Maybach 2023 is equipped 
                         with an array of state-of-the-art safety features, providing peace of mind on every journey. From advanced driver-assistance systems to innovative braking technologies, this vehicle prioritizes your 
-                        safety and the safety of those around you. This luxury masterpiece is available on our marketplace, ready to elevate your driving experience to new heights. Whether you're attending a special event, 
-                        embarking on a weekend getaway, or simply seeking to make a statement, the Mercedes Maybach 2023 is the epitome of refined luxury. Don't miss out on the opportunity to own this automotive masterpiece. 
+                            {/* eslint-disable-next-line react/no-unescaped-entities */}
+                        safety and the safety of those around you. This luxury masterpiece is available on our marketplace, ready to elevate your driving experience to new heights. Whether you're attending a special event,
+                            {/* eslint-disable-next-line react/no-unescaped-entities */}
+                        embarking on a weekend getaway, or simply seeking to make a statement, the Mercedes Maybach 2023 is the epitome of refined luxury. Don't miss out on the opportunity to own this automotive masterpiece.
                         Contact us now with any questions or to schedule a viewing. Embrace the extraordinary with the Mercedes Maybach 2023.</p>
                     </div>
                 </div>

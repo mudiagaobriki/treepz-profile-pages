@@ -23,6 +23,7 @@ const UniqueHost2 = ({links}) => {
                     <h2 className="text-3xl font-medium tz-text-dark">Flexibilty</h2>
                     <p className="tz-text-gray">
                         You have the flexibility to set your own availability and rental terms. Decide when you want to make your 
+                        {/* eslint-disable-next-line react/no-unescaped-entities */}
                         vehicle available for bookings, whether it's on weekends, during specific seasons, or on select weekdays.
                     </p>
                 </div>    

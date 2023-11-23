@@ -27,13 +27,13 @@ const CarCard2 = ({carImage, carName, price, location="", rating=4.9, tripsCount
                     {/*Carousel wrapper*/}
                     <div class="relative h-48 w-full overflow-hidden rounded-t-lg px-3">
                         <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
-                            <Image src={carImage} alt="" width={320} height={208} class="absolute block h-full w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
+                            <Image src={carImage} width={320} height={208} class="absolute block h-full w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
                         </div>
                         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                            <Image src={carImage} alt="" width={320} height={208} class="absolute block h-full w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
+                            <Image src={carImage} width={320} height={208} class="absolute block h-full w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
                         </div>
                         <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                            <Image src={carImage} alt="" width={320} height={208} class="absolute block h-full w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
+                            <Image src={carImage} width={320} height={208} class="absolute block h-full w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
                         </div>
                     </div>
                     <div className="inline-flex items-center w-full absolute px-3 pt-4 top-0 left-0 right-0 z-30">

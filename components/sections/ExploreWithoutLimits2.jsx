@@ -16,6 +16,7 @@ const ExploreWithoutLimits2 = () => {
             <div className="flex flex-col items-start gap-[4.5rem] w-96">
                 <div className="flex flex-col items-start gap-8 self-stretch">
                     <p className="text-xl tz-text-gray">
+                        {/* eslint-disable-next-line react/no-unescaped-entities */}
                         Whether it's a sleek sports car or a rugged truck. It only takes a few minutes, and best of all, there are no listing fees or monthly charges.
                     </p>
                     <h1 className="text-7xl font-medium tz-text-dark">Explore <br /> without <br /> limits.</h1>

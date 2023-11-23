@@ -13,6 +13,7 @@ const MeetNewPeople = ({imageRight=true}) => {
             {imageRight ? <div className="flex justify-between items-start w-full">
                             <div className="flex flex-col items-start gap-8 w-[38rem]">
                                 <h2 className="text-[2.5rem] font-medium tz-text-dark">Meet new people</h2>
+                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 <p className="text-xl tz-text-gray">As a host, you'll have the chance to meet travelers from different backgrounds and cultures. Share local insights, provide recommendations, and create memorable experiences for your guests.</p>
                             </div>
                             <div className="">
@@ -26,6 +27,7 @@ const MeetNewPeople = ({imageRight=true}) => {
                             </div>
                             <div className="flex flex-col items-start gap-8 w-[38rem]">
                                 <h2 className="text-[2.5rem] font-medium tz-text-dark">Meet new people</h2>
+                                {/* eslint-disable-next-line react/no-unescaped-entities */}
                                 <p className="text-xl tz-text-gray">As a host, you'll have the chance to meet travelers from different backgrounds and cultures. Share local insights, provide recommendations, and create memorable experiences for your guests.</p>
                             </div>
                         </div>}
